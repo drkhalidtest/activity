@@ -1,0 +1,1 @@
+This is activity of using git with github
